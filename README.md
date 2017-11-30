@@ -247,6 +247,11 @@ Installing
 $ pip install graphitesend
 ````
 
+*easy_install*
+````sh
+$ easy_install graphitesend
+````
+
 or
 
 *source*
